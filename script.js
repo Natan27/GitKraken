@@ -1,4 +1,4 @@
-const lampada = document.getElementById('lamp');
+const lampada = document.getElementById('lampada');
 const btnOn = document.getElementById('btnOn');
 const btnOff = document.getElementById('btnOff');
 const title = document.getElementById('title');
